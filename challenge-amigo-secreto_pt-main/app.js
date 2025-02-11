@@ -1,4 +1,3 @@
-// Variável para armazenar os amigos
 var amigos = [];
 
 // Função para adicionar amigos à lista
